@@ -1,0 +1,6 @@
+OBJECT_BASE 5675860.btg
+
+
+OBJECT_SHARED Models/AirBase/klsv-west-tanks.xml 166.61690470 19.28486327 -0.0074 336.0 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-west-tanks-central.xml 166.61636983 19.28506701 -0.0069 155.4 0.0 -0.0
+OBJECT_SHARED Models/AirBase/klsv-workshop-1.xml 166.61897223 19.28697074 0.3620 340.0 0.0 -0.0
